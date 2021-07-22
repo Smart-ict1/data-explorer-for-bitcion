@@ -1,4 +1,4 @@
-# Data explorer for bitcion 
+# Data explorer for bitcoin 
 
 this project is about creating bitcoin wallets and checking their balance and the balance of any bitcoin address. It also includes the last price of 1 BTC and a graph that shows bitcoin prices for last 30 days.
 
