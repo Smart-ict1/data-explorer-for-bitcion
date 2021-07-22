@@ -22,7 +22,7 @@ First,install express which is a routing framework by executing the following co
   ```text
  $ npm install express --save
  ```
-Then install the request package that allows us to send HTTP requests to the bitcoin client by  entering the command
+Then install the request package that allows us to send HTTP requests to the bitcoin client by entering the command
 
  ```text
  $ npm install request –save
