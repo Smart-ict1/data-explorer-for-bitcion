@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script type = "text/javascript" src="/function.js"></script> 
+  </head>
+  <body>
+  <div id='bitinfo'>
+    <ul>
+        <li><a  href="/">Generate</a></li>
+        <li><a href="verefications">Check the solde</a></li>
+        <li><a class="active" href="bitcionInfo">bitcion Info</a></li>
+    </ul>
+    <h1>the actuel price :<%=price%> USD</h1>
+    <h1>Price of bitcion in last 30day</h1>
+    <canvas id="myChart" width="400" height="150"></canvas>
+
+    <p>powred by coindesk</p>
+  </div>
+  </body>
+</html>
