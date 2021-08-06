@@ -57,7 +57,7 @@ data-explorer-for-bitcion/
 └── README.md
 ```
 # Running Time
-Now we can safely run our project. It is as simple as running the following command:
+Now you can safely run the application. It is as simple as running the following command:
 ```text
  $ node app.js
 ```
